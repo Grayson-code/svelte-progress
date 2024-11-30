@@ -1,5 +1,6 @@
 # sv
 
+Beautifully crafted components to improve your UX.
 
 ## Developing
 
